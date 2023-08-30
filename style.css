@@ -88,7 +88,7 @@ body{
 }
 
 section {
-  padding-bottom:9.4rem;
+  padding-bottom:8.4rem;
 }
 
 header h1 {
@@ -96,10 +96,15 @@ header h1 {
 }
 
 .cta-learn {
-padding:1rem 1.5rem;
+padding:1rem 2rem;
   margin-bottom: 4.8rem;
-background: transparent;
+background: #fff;
 border: 0.1rem solid #fff;
-color: #fff;
+color: #000;
+}
+
+.cta-learn:hover {
+  background:transparent;
+  color:#000;
 }
 }
