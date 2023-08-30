@@ -70,6 +70,22 @@ border:none;
 margin-bottom:4.8rem;
 }
 
+
+.sudan .cta-learn{
+  color:hsl(31, 77%, 52%);
+}
+
+.suvs .cta-learn{
+  color:hsl(184, 100%, 22%);
+}
+
+.luxary .cta-learn{
+  color: hsl(179, 100%, 13%);
+}
+
+
+
+
 @media (min-width:900px){
 
 
@@ -100,8 +116,9 @@ padding:1rem 2rem;
   margin-bottom: 4.8rem;
 background: #fff;
 border: 0.1rem solid #fff;
-color: #000;
+
 }
+
 
 .cta-learn:hover {
   background:transparent;
