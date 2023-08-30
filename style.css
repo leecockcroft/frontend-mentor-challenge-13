@@ -78,6 +78,11 @@ body{
 
 }
 
+.wrapper{
+  padding: 0 26rem;
+
+}
+
 .container{
   display:flex;
 }
